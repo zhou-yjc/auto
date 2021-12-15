@@ -26,3 +26,5 @@ function mkf(MyPath,FileData){
 		});
 	}
 }
+
+mkf('./test.txt','nihao')
