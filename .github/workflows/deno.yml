@@ -23,4 +23,4 @@ jobs:
           npm install
           npm install got
           npm install tough-cookie         
-          node ./scripts/cx.js  #脚本存在根目录scripts文件夹下
+          node ./AutoCreateFD.js  #脚本存在根目录scripts文件夹下
